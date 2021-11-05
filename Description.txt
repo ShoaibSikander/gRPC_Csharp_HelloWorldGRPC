@@ -1,0 +1,4 @@
+This repository contains C# codes for a simple gRPC service.
+Client & Server are "DotNet Core Console App" & "gRPC service" type of projects respectively.
+The client sends a string.
+Server receives, concatesnates and returns another string.
